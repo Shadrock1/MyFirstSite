@@ -1,0 +1,30 @@
+<?php require "templates/Posts/header.php" ?>
+<a class="py-2 mx-2 d-none d-md-inline-block" href="/posts">Posts</a>
+<a class="py-2 mx-2 d-none d-md-inline-block"  href="/">Home</a>
+
+<div class="container d-flex  flex-md-row">
+<form action="/posts" method="post">
+    <div class="col p-4 d-flex flex-column position-static card-body ">
+        <label >
+            Title :
+        </label>
+        <div class="d-inline-flex p-2">
+            <input type="text" name="post[name]" value="<?= htmlspecialchars($post['name'] ?? ''); ?>">
+        </div>
+        <label>
+            Post :
+        </label>
+        <textarea type="text" rows="10" cols="60" name="post[post]">
+            <?= htmlspecialchars($post['post'] ?? ''); ?>
+        </textarea>
+    </div>
+    </div>
+<?php if (isset($errors['name'])): ?>
+ <div><?= $errors['name'] ?></div>
+        <?php endif ?>
+<?php if (isset($errors['post'])): ?>
+<div><?= $errors['post'] ?></div>
+        <?php endif ?>   
+<input type="submit" value="Create">
+</form>
+

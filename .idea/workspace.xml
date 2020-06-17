@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2464ac52-f376-4b26-8754-3ac8ad041d20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/danielstjules/stringy" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/vendor/tightenco/collect" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/superclosure" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/slim/http" />
+      <path value="$PROJECT_DIR$/vendor/slim/flash" />
+      <path value="$PROJECT_DIR$/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/vendor/slim/php-view" />
+      <path value="$PROJECT_DIR$/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1d2FpGGtCcwjjPX1gyyld8QDQln" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/User" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2464ac52-f376-4b26-8754-3ac8ad041d20" name="Default Changelist" comment="" />
+      <created>1591615461861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591615461861</updated>
+      <workItem from="1591615463004" duration="867000" />
+      <workItem from="1591616346577" duration="272000" />
+      <workItem from="1591616627229" duration="100000" />
+      <workItem from="1591617683077" duration="38000" />
+      <workItem from="1591617812269" duration="6740000" />
+      <workItem from="1591691327500" duration="15214000" />
+      <workItem from="1591788773270" duration="10504000" />
+      <workItem from="1591871412146" duration="17893000" />
+      <workItem from="1591975989650" duration="3306000" />
+      <workItem from="1591981381257" duration="2257000" />
+      <workItem from="1592041136320" duration="12081000" />
+      <workItem from="1592125911334" duration="17460000" />
+      <workItem from="1592223143415" duration="14085000" />
+      <workItem from="1592294466857" duration="17211000" />
+      <workItem from="1592385577668" duration="3963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1043" y="407" width="214" height="259" key="#Notifications" timestamp="1591617689736">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1043" y="407" width="214" height="259" key="#Notifications/0.30.1920.1050@0.30.1920.1050" timestamp="1591617689736" />
+    <state x="578" y="383" width="1242" height="297" key="#SQL_Dialects" timestamp="1592134790656">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="578" y="383" width="1242" height="297" key="#SQL_Dialects/0.30.1920.1050@0.30.1920.1050" timestamp="1592134790656" />
+    <state x="799" y="191" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592134811732">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="799" y="191" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592134811732" />
+    <state x="898" y="336" width="495" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591693657691">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="898" y="336" width="495" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1591693657691" />
+    <state x="894" y="241" width="438" height="637" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591622593624">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="894" y="241" width="438" height="637" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1591622593624" />
+    <state x="953" y="296" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592045946621">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="953" y="296" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592045946621" />
+    <state x="814" y="253" width="347" height="556" key="NewPhpClassDialog" timestamp="1591618062294">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="814" y="253" width="347" height="556" key="NewPhpClassDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1591618062294" />
+    <state x="621" y="165" width="992" height="733" key="SettingsEditor" timestamp="1591716172114">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="621" y="165" width="992" height="733" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1591716172114" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/templates/Posts/newpost.phtml</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/templates/Posts/post.phtml</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?php require "templates/Posts/header.php" ?>
+
+<a class="py-2  d-none d-md-inline-block"  href="/">Home</a>
+
+<?php if (count($flash) > 0): ?>
+  <ul>
+  <?php foreach ($flash as $messages): ?>
+      <?php foreach ($messages as $message): ?>
+          <li><?= $message ?></li>
+      <?php endforeach ?>
+  <?php endforeach ?>
+  </ul>
+<?php endif ?>
+
+
+
+
+<body class="text-center  p-1">
+<form action="/session" method="post" class="form-signin">
+    <div class="container d-flex flex-column align-items-center">
+    <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+    <label for="inputLogin" class="sr-only">Login</label>
+    <input type="text"  class="form-control" placeholder="login" required name="user[login]" >
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" id="inputPassword" class="form-control" placeholder="Password" required name="user[password]">
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    </div>
+</form>
+</body>

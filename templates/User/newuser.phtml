@@ -1,0 +1,35 @@
+
+<head>
+    <?php require "templates/Posts/header.php" ?>
+</head>
+
+<div class="container d-flex flex-md-row justify-content-start ">
+    <a class="py-2 mx-2 d-none d-md-inline-block"  href="/">Home</a>
+</div>
+
+
+<form action="/user" method="post">
+    <div class="container d-flex flex-column align-items-center p-5 ">
+            <div>
+            <?php if (isset($errors['login'])): ?>
+                <div><?= $errors['login'] ?><br></div>
+            <?php endif ?>
+             <label class="text-info">
+
+            <input type="text" name="user[login]" placeholder="Login"
+                   value="<?= htmlspecialchars($user['login'] ?? ''); ?>">
+            </label>
+             </div>
+        <div>
+            <?php if (isset($errors['password'])): ?>
+                <div><?= $errors['password'] ?><br></div>
+            <?php endif ?>
+        <label class="text-info">
+
+            <input type="password" name="user[password]" placeholder="Password"
+                   value="<?= htmlspecialchars($user['password'] ?? ''); ?>">
+        </label>
+        </div>
+        <input type="submit" value="Create">
+</div>
+</form>
